@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="138" viewBox="0 0 197 138">
+  <defs>
+    <filter id="Rectangle_Copy_3" x="-37.5" y="-25.5" width="272" height="213" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#b3c6cf" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_Copy_3)">
+        <rect id="Rectangle_Copy_3-2" data-name="Rectangle Copy 3" width="197" height="138" transform="translate(-39)" fill="#fff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_1975" x="85.022" y="55.266" width="193.983" height="193.983" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-2"/>
+      <feFlood flood-color="#b3c6cf" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_20" data-name="Mask Group 20" transform="translate(39)" opacity="0.998" clip-path="url(#clip-path)">
+    <g id="Group_1699" data-name="Group 1699" transform="translate(209.478 -43.883) rotate(90)">
+      <rect id="Rectangle_1972" data-name="Rectangle 1972" width="96.153" height="72.115" rx="8" transform="translate(185.666 134.673) rotate(45)" fill="#fdc641"/>
+      <rect id="Rectangle_1973" data-name="Rectangle 1973" width="96.153" height="72.115" rx="8" transform="translate(50.993 0) rotate(45)" fill="#ef88b9"/>
+      <rect id="Rectangle_1974" data-name="Rectangle 1974" width="72.115" height="72.115" rx="36.057" transform="translate(126.828 75.835) rotate(45)" fill="#6784da"/>
+      <g transform="matrix(0, -1, 1, 0, 43.88, 248.48)" filter="url(#Rectangle_1975)">
+        <rect id="Rectangle_1975-2" data-name="Rectangle 1975" width="96.153" height="72.115" rx="8" transform="translate(241.5 131.76) rotate(135)" fill="#40cdde"/>
+      </g>
+      <path id="Union_27" data-name="Union 27" d="M.035,14.138C-.478,6.877,4.7.563,11.6.036s12.907,4.928,13.42,12.19a22.348,22.348,0,0,1-.767,6.926l3.229,5.637-7.67-7.454A9.12,9.12,0,0,0,20.844,12.4,8.516,8.516,0,0,0,11.9,4.276a8.638,8.638,0,0,0-7.708,9.4,8.518,8.518,0,0,0,8.947,8.127,7.98,7.98,0,0,0,2.613-.656l7.179,2.225c-2.3,5.163-8.714,13.664-8.714,13.664S.817,25.193.035,14.138Zm12.659,3.651a2.45,2.45,0,0,1-1.628-2.978,2.293,2.293,0,0,1,2.82-1.717,2.444,2.444,0,0,1,1.628,2.975,2.327,2.327,0,0,1-2.222,1.8A2.2,2.2,0,0,1,12.694,17.789ZM9.7,11.285A1.326,1.326,0,0,1,8.58,9.8,1.29,1.29,0,0,1,9.985,8.619,1.324,1.324,0,0,1,11.1,10.1a1.3,1.3,0,0,1-1.26,1.191A1.247,1.247,0,0,1,9.7,11.285Z" transform="translate(108.972 141.142) rotate(-90)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
